@@ -1,1 +1,1 @@
-# CRUD-web-service
+# Rust Playground
