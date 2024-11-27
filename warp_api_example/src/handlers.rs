@@ -1,4 +1,3 @@
-use warp::Filter;
 use super::models::Post;
 
 // A function to handle GET requests at /posts/{id}
